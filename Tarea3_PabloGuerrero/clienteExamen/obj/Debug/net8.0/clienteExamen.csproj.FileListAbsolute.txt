@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\clienteExamen\bin\Debug\net8.0\clienteExamen.exe
+C:\Users\Pablo\source\repos\clienteExamen\bin\Debug\net8.0\clienteExamen.deps.json
+C:\Users\Pablo\source\repos\clienteExamen\bin\Debug\net8.0\clienteExamen.runtimeconfig.json
+C:\Users\Pablo\source\repos\clienteExamen\bin\Debug\net8.0\clienteExamen.dll
+C:\Users\Pablo\source\repos\clienteExamen\bin\Debug\net8.0\clienteExamen.pdb
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\clienteExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\clienteExamen.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\clienteExamen.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\clienteExamen.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\clienteExamen.dll
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\refint\clienteExamen.dll
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\clienteExamen.pdb
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\clienteExamen.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\clienteExamen\obj\Debug\net8.0\ref\clienteExamen.dll

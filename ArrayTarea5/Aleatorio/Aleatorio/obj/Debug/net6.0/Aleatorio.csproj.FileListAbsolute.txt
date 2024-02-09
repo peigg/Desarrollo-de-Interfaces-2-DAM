@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\bin\Debug\net6.0\Aleatorio.exe
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\bin\Debug\net6.0\Aleatorio.deps.json
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\bin\Debug\net6.0\Aleatorio.runtimeconfig.json
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\bin\Debug\net6.0\Aleatorio.dll
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\bin\Debug\net6.0\Aleatorio.pdb
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\Aleatorio.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\Aleatorio.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\Aleatorio.dll
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\refint\Aleatorio.dll
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\Aleatorio.pdb
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\Aleatorio.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\Aleatorio\Aleatorio\obj\Debug\net6.0\ref\Aleatorio.dll

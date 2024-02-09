@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\bin\Debug\net6.0\Tarea4_PabloGuerrero.exe
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\bin\Debug\net6.0\Tarea4_PabloGuerrero.deps.json
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\bin\Debug\net6.0\Tarea4_PabloGuerrero.runtimeconfig.json
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\bin\Debug\net6.0\Tarea4_PabloGuerrero.dll
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\bin\Debug\net6.0\Tarea4_PabloGuerrero.pdb
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\Tarea4_PabloGuerrero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\Tarea4_PabloGuerrero.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\Tarea4_PabloGuerrero.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\Tarea4_PabloGuerrero.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\Tarea4_PabloGuerrero.dll
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\refint\Tarea4_PabloGuerrero.dll
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\Tarea4_PabloGuerrero.pdb
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\Tarea4_PabloGuerrero.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\Tarea4_PabloGuerrero\Tarea4_PabloGuerrero\obj\Debug\net6.0\ref\Tarea4_PabloGuerrero.dll

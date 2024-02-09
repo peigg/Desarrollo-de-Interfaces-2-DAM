@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ActividadRepaso4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ActividadRepaso4.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ActividadRepaso4.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ActividadRepaso4.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ActividadRepaso4\bin\Debug\net8.0\ActividadRepaso4.exe
+C:\Users\Pablo\source\repos\ActividadRepaso4\bin\Debug\net8.0\ActividadRepaso4.deps.json
+C:\Users\Pablo\source\repos\ActividadRepaso4\bin\Debug\net8.0\ActividadRepaso4.runtimeconfig.json
+C:\Users\Pablo\source\repos\ActividadRepaso4\bin\Debug\net8.0\ActividadRepaso4.dll
+C:\Users\Pablo\source\repos\ActividadRepaso4\bin\Debug\net8.0\ActividadRepaso4.pdb
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ActividadRepaso4.dll
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\refint\ActividadRepaso4.dll
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ActividadRepaso4.pdb
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ActividadRepaso4.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\ActividadRepaso4\obj\Debug\net8.0\ref\ActividadRepaso4.dll

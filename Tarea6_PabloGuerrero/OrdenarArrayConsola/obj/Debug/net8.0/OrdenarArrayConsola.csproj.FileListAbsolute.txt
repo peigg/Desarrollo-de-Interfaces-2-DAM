@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\bin\Debug\net8.0\OrdenarArrayConsola.exe
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\bin\Debug\net8.0\OrdenarArrayConsola.deps.json
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\bin\Debug\net8.0\OrdenarArrayConsola.runtimeconfig.json
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\bin\Debug\net8.0\OrdenarArrayConsola.dll
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\bin\Debug\net8.0\OrdenarArrayConsola.pdb
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\OrdenarArrayConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\OrdenarArrayConsola.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\OrdenarArrayConsola.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\OrdenarArrayConsola.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\OrdenarArrayConsola.dll
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\refint\OrdenarArrayConsola.dll
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\OrdenarArrayConsola.pdb
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\OrdenarArrayConsola.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\OrdenarArrayConsola\obj\Debug\net8.0\ref\OrdenarArrayConsola.dll

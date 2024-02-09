@@ -1,0 +1,89 @@
+﻿<Page x:Class="WpfTarea.Home"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfTarea"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ExpenseIt - Home">
+
+
+    <Grid Margin="0,0,0,0">
+
+        <Grid.Resources>
+            <!-- Expense Report Data -->
+            <XmlDataProvider x:Key="ExpenseDataSource" XPath="Gastos">
+                <x:XData>
+                    <Gastos xmlns="">
+                        <Nombre Nombre="Miguel" Departamento="Legal">
+                            <Gasto TipoDeGasto="Comida" Cantidad="50" />
+                            <Gasto TipoDeGasto="Transporte" Cantidad="50" />
+                        </Nombre>
+                        <Nombre Nombre="Lisa" Departamento="Marketing">
+                            <Gasto TipoDeGasto="Impresora"
+                             Cantidad="50"/>
+                            <Gasto TipoDeGasto="Regalo" Cantidad="125" />
+                            <Gasto TipoDeGasto="Camara" Cantidad="500" />
+                        </Nombre>
+                        <Nombre Nombre="Juan" Departamento="Ingenieria">
+                            <Gasto TipoDeGasto="Suscripcion" 
+                            Cantidad="50"/>
+                            <Gasto  TipoDeGasto="Maquinas" Cantidad="600" />
+                            <Gasto  TipoDeGasto="Software" Cantidad="500" />
+                        </Nombre>
+                        <Nombre Nombre="María" Departamento="Finanzas">
+                            <Gasto TipoDeGasto="Cena" Cantidad="100" />
+                            <Gasto TipoDeGasto="Compra" Cantidad="120" />
+                        </Nombre>
+                    </Gastos>
+                </x:XData>
+            </XmlDataProvider>
+            <!-- Name item template -->
+            <DataTemplate x:Key="nameItemTemplate">
+                <Label Content="{Binding XPath=@Nombre}"/>
+            </DataTemplate>
+
+        </Grid.Resources>
+
+
+        <Grid.Background>
+            <ImageBrush ImageSource="FondoRegistro.png"  />
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="230" />
+            <ColumnDefinition />
+            <ColumnDefinition />
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+
+        <!-- People list -->
+
+        <Label Height="50" Grid.Column="0" Style="{StaticResource headerTextStyle}" Margin="44,0,266,0" Grid.ColumnSpan="2" >
+            Ver informe de gastos
+        </Label>
+        <Border Grid.Column="1" Grid.Row="1" Style="{StaticResource listHeaderStyle}">
+            <Label Style="{StaticResource listHeaderTextStyle}">Personas</Label>
+        </Border>
+        <ListBox Name="peopleListBox" Grid.Column="1" Grid.Row="2" 
+         ItemsSource="{Binding Source={StaticResource ExpenseDataSource}, XPath=Nombre}"
+         ItemTemplate="{StaticResource nameItemTemplate}">
+        </ListBox>
+
+
+        <!-- View report button -->
+        <Button Grid.Column="1" Grid.Row="3" Click="Button_Click" Style="{StaticResource buttonStyle}">Consultar</Button>
+
+
+    </Grid>
+</Page>

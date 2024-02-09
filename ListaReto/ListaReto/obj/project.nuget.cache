@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cO7p9fiYaZMr/2dhm9JC8qfl7mMEU+7W52T92gHamTx5eDKjv8CCRYuALVdocelQKNwm0QYO5QAPkPEjBBfQ3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pablo\\source\\repos\\ListaReto\\ListaReto\\ListaReto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

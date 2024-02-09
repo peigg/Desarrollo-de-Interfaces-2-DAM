@@ -1,0 +1,29 @@
+﻿<Window x:Class="Tarea9_POO_PabloGuerrero.Final"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea9_POO_PabloGuerrero"
+        mc:Ignorable="d"
+        Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Imagenes/FondoTesoro.png" />
+        </Grid.Background>
+
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Margin="0,20,0,0" Background="#2ca4a8" Height="77" ><Run Text="       El brillo que veías resulta ser el cofre del tesoro que buscabas, el problema es  "/><LineBreak/><Run Text="                              que parece tener una combinación para abrirlo. "/><LineBreak/><Run Text="   Busca "/><Run Language="es-es" Text="el color"/><Run Text=" correct"/><Run Language="es-es" Text="o"/><Run Text=" para abrir el cofre y regresa al pueblo con el tesoro    "/></TextBlock>
+
+        <!-- Imagen del Explorador -->
+        <Image x:Name="imagenExplorador" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,170,0,0" Height="150" Width="100"/>
+
+        <TextBlock x:Name="txtResultado" Text="" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="Bold" Margin="0,200,0,0" Background="#FF2CA4A8"/>
+        <Button Margin="547,357,0,0" x:Name="btnContinuar" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnContinuar_Click" Height="50" Width="150" Visibility="Collapsed">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagenes/btnContinuar.png" />
+            </Button.Background>
+        </Button>
+
+        <StackPanel x:Name="panelColores" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,350,0,0"/>
+
+    </Grid>
+</Window>

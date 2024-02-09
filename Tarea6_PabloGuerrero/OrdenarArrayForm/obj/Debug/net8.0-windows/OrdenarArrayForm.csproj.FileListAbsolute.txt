@@ -1,0 +1,16 @@
+C:\Users\Pablo\source\repos\OrdenarArrayForm\bin\Debug\net8.0-windows\OrdenarArrayForm.exe
+C:\Users\Pablo\source\repos\OrdenarArrayForm\bin\Debug\net8.0-windows\OrdenarArrayForm.deps.json
+C:\Users\Pablo\source\repos\OrdenarArrayForm\bin\Debug\net8.0-windows\OrdenarArrayForm.runtimeconfig.json
+C:\Users\Pablo\source\repos\OrdenarArrayForm\bin\Debug\net8.0-windows\OrdenarArrayForm.dll
+C:\Users\Pablo\source\repos\OrdenarArrayForm\bin\Debug\net8.0-windows\OrdenarArrayForm.pdb
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.Form1.resources
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.dll
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\refint\OrdenarArrayForm.dll
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.pdb
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\OrdenarArrayForm.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\OrdenarArrayForm\obj\Debug\net8.0-windows\ref\OrdenarArrayForm.dll

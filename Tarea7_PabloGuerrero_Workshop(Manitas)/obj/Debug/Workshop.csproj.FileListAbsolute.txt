@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\Workshop\bin\Debug\Workshop.exe.config
+C:\Users\Pablo\source\repos\Workshop\bin\Debug\Workshop.exe
+C:\Users\Pablo\source\repos\Workshop\bin\Debug\Workshop.pdb
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.Login.resources
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.Properties.Resources.resources
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.Register.resources
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.StartForm.resources
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.exe
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.pdb
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.Servicios.resources
+C:\Users\Pablo\source\repos\Workshop\obj\Debug\Workshop.CustomMessageBox.resources

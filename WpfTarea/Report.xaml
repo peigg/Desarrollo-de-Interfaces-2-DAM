@@ -1,0 +1,95 @@
+﻿<Page x:Class="WpfTarea.Report"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfTarea"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Gastos-Ver Reporte">
+
+    <Grid>
+
+        <!--Templates to display expense report data-->
+        <Grid.Resources>
+            <!-- Reason item template -->
+            <DataTemplate x:Key="typeItemTemplate">
+                <Label Content="{Binding XPath=@TipoDeGasto}"/>
+            </DataTemplate>
+            <!-- Amount item template -->
+            <DataTemplate x:Key="amountItemTemplate">
+                <Label Content="{Binding XPath=@Cantidad}"/>
+            </DataTemplate>
+        </Grid.Resources>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="FondoRegistro.png" />
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="230" />
+            <ColumnDefinition />
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Style="{StaticResource headerTextStyle}" Margin="57,28,513,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Grid.Row="0">
+            Reporte de Gastos
+        </Label>
+        <Grid Margin="10" Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <!-- Name -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Nombre:</Label>
+                <Label Style="{StaticResource labelStyle}" Content="{Binding XPath=@Nombre}"></Label>
+            </StackPanel>
+
+            <!-- Department -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Departamento:</Label>
+                <Label Style="{StaticResource labelStyle}" Content="{Binding XPath=@Departamento}"></Label>
+            </StackPanel>
+
+
+
+            <Grid Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2" VerticalAlignment="Top" 
+            HorizontalAlignment="Left">
+                <!-- Expense type and Amount table -->
+                <DataGrid ColumnHeaderStyle="{StaticResource columnHeaderStyle}" 
+                    AutoGenerateColumns="False" RowHeaderWidth="0" Margin="0,0,10,27" >
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn Header="Tipo de Gasto" />
+                        <DataGridTemplateColumn Header="Cantidad"  />
+                    </DataGrid.Columns>
+                    <!-- Expense type and Amount table -->
+                    <DataGrid ItemsSource="{Binding XPath=Nombre/Gasto}" ColumnHeaderStyle="{StaticResource columnHeaderStyle}" AutoGenerateColumns="False" RowHeaderWidth="0" >
+
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn Header="Tipo de Gasto" CellTemplate="{StaticResource typeItemTemplate}" />
+                            <DataGridTemplateColumn Header="Cantidad" CellTemplate="{StaticResource amountItemTemplate}" />
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+
+                </DataGrid>
+            </Grid>
+        </Grid>
+
+
+    </Grid>
+
+
+</Page>

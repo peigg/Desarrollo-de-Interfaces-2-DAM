@@ -1,0 +1,39 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\obj\x86\Debug\servidor_bingo.exe
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\bin\Debug\servidor_bingo.exe
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\bin\Debug\servidor_bingo.pdb
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\obj\x86\Debug\servidor_bingo.csprojResolveAssemblyReference.cache
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.csproj.CoreCompileInputs.cache
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.exe.config
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.exe
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.csproj.AssemblyReference.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.csproj.CoreCompileInputs.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\Pablo\source\repos\BingoCSharp\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.exe.config
+C:\Users\Pablo\source\repos\BingoCSharp\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\Pablo\source\repos\BingoCSharp\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\Pablo\source\repos\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\Pablo\source\repos\BingoCSharp\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb

@@ -1,0 +1,20 @@
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Jorge I. Vidovic\Desktop\Ejercicio3 - Sockets V.2\Cliente\Cliente\obj\Debug\Cliente.formCliente.resources
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\obj\Debug\Cliente.formCliente.resources
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Pablo\source\repos\Prueba\Cliente\Cliente\obj\Debug\Cliente.pdb

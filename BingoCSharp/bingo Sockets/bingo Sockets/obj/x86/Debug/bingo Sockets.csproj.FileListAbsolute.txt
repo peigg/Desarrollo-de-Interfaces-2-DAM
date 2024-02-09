@@ -1,0 +1,82 @@
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\chus\Documents\Visual Studio 2010\Projects\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\usuario\Desktop\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\usuario\Desktop\bingo\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\usuario\Desktop\bingo\para enviar\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csprojResolveAssemblyReference.cache
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.GenerateResource.Cache
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csprojAssemblyReference.cache
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.GenerateResource.cache
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.CoreCompileInputs.cache
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\danhm\OneDrive\Escritorio\Montecastelo\Módulos\U2_Servicios en red\T1_Programación comunicaciones en red\BingoCSharp-master\BingoCSharp-master\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe.config
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.AssemblyReference.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.GenerateResource.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.CoreCompileInputs.cache
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+D:\Wrokspace\Montecastelo23\Modulos\2DAM\Servicios y Procesos\Temario\Bloque Servicios en Red\Unidad 3_Programacion comunicaciones en red\BingoCSharp\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe.config
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.exe
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\bin\Debug\bingo Sockets.pdb
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Form1.resources
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo_Sockets.Properties.Resources.resources
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.exe
+C:\Users\Pablo\source\repos\BingoCSharp\bingo Sockets\bingo Sockets\obj\x86\Debug\bingo Sockets.pdb

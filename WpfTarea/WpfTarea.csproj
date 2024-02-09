@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FondoInicio %281%29.png" />
+    <None Remove="FondoRegistro.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="FondoInicio (1).png" />
+    <Resource Include="FondoRegistro.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Tarea9_POO_PabloGuerrero.GameOver"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea9_POO_PabloGuerrero"
+        mc:Ignorable="d"
+        Title="GameOver" Height="450" Width="800"  WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Imagenes/FondoGameOver.png"  />
+        </Grid.Background>
+        <Button x:Name="btnReinicio" Content="" Margin="154,225,457,156" Click="btnReinicio_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagenes/btnReinicio.png" />
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnCerrar" Content="" Margin="461,225,150,156" Click="btnCerrar_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagenes/btnCerrar.png" />
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

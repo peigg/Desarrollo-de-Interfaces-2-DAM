@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\ActividadesRepaso3\bin\Debug\net8.0\ActividadesRepaso3.exe
+C:\Users\Pablo\source\repos\ActividadesRepaso3\bin\Debug\net8.0\ActividadesRepaso3.deps.json
+C:\Users\Pablo\source\repos\ActividadesRepaso3\bin\Debug\net8.0\ActividadesRepaso3.runtimeconfig.json
+C:\Users\Pablo\source\repos\ActividadesRepaso3\bin\Debug\net8.0\ActividadesRepaso3.dll
+C:\Users\Pablo\source\repos\ActividadesRepaso3\bin\Debug\net8.0\ActividadesRepaso3.pdb
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ActividadesRepaso3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ActividadesRepaso3.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ActividadesRepaso3.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ActividadesRepaso3.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ActividadesRepaso3.dll
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\refint\ActividadesRepaso3.dll
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ActividadesRepaso3.pdb
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ActividadesRepaso3.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\ActividadesRepaso3\obj\Debug\net8.0\ref\ActividadesRepaso3.dll

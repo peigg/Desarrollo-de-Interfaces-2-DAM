@@ -1,0 +1,22 @@
+﻿<Window x:Class="Tarea9_POO_PabloGuerrero.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea9_POO_PabloGuerrero"
+        mc:Ignorable="d"
+        Title="Portada" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" >
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Imagenes/FondoRegistro.png"  />
+        </Grid.Background>
+        <Button x:Name="btnLogin" Content="" HorizontalAlignment="Center" Margin="0,209,0,0" VerticalAlignment="Top" Height="68" Width="232" Click="btnLogin_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagenes/btnInicioAventura.png" />
+            </Button.Background>
+        </Button>
+        <TextBox TextWrapping="Wrap" Text="Aventura Gráfica Pablo Guerrero" Margin="174,137,174,0" Style="{StaticResource headerTextStyle}" Height="31" VerticalAlignment="Top"/>
+    </Grid>
+
+</Window>

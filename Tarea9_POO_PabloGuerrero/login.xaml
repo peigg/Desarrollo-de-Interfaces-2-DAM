@@ -1,0 +1,27 @@
+﻿<Window x:Class="Tarea9_POO_PabloGuerrero.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea9_POO_PabloGuerrero"
+        mc:Ignorable="d"
+        Title="login" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Imagenes/FondoRegistro.png"  />
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="310" Margin="58,0,0,0" VerticalAlignment="Center" Width="567" Source="Imagenes/elegir (1).png"/>
+        <CheckBox x:Name="cBoxArcher" Content="+1/3 tiradas" RenderTransformOrigin="0.512,0.801" Margin="126,350,-126,-350" />
+        <CheckBox x:Name="cBoxMague" Content="-1 tiradas NPC" RenderTransformOrigin="0.309,0.801" Margin="275,350,-275,-350" />
+        <CheckBox x:Name="cBoxWarr" Content="+2 tiradas" RenderTransformOrigin="0.694,0.801" Margin="436,350,-436,-350" />
+        <Button x:Name="btnContinuar" Margin="528,253,113,144" Click="btnContinuar_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Imagenes/btnContinuar.png" />
+            </Button.Background>
+
+        </Button>
+        <TextBox x:Name="txtNombre" TextWrapping="Wrap" Margin="528,209,113,209"/>
+        <Image Height="100" Width="100"/>
+        <Image Margin="521,144,100,248" Source="Imagenes/nombre.png"/>
+    </Grid>
+</Window>

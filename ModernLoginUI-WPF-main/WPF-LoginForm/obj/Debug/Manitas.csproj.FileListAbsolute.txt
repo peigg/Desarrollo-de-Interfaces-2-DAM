@@ -1,0 +1,17 @@
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\bin\Debug\WPF-LoginForm.exe.config
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\bin\Debug\WPF-LoginForm.exe
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\bin\Debug\WPF-LoginForm.pdb
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\Manitas.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\MainWindow.baml
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\View\LoginView.baml
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\MainWindow.g.cs
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\View\LoginView.g.cs
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\App.g.cs
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\WPF-LoginForm_MarkupCompile.cache
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\WPF-LoginForm_MarkupCompile.lref
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\WPF-LoginForm.g.resources
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\WPF_LoginForm.Properties.Resources.resources
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\Manitas.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\Manitas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\WPF-LoginForm.exe
+C:\Users\Pablo\source\repos\ModernLoginUI-WPF-main\WPF-LoginForm\obj\Debug\WPF-LoginForm.pdb

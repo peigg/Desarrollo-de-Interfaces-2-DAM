@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2z0siE/GH+AvnX/jAto1ZhPreh6F0nDiZJvMnDAXFV5EIocujKFiHr5RwLphdSLpMj78C5skRUuFIaJuDmROA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pablo\\source\\repos\\ArrayTarea5\\ArrayTarea5\\ArrayTarea5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

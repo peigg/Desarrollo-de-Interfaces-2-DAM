@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="btnAdivinar.png" />
+    <None Remove="btnCerrar.png" />
+    <None Remove="btnContinuar.png" />
+    <None Remove="btnInicioAventura.png" />
+    <None Remove="btnLanzarDados.png" />
+    <None Remove="btnReinicio.png" />
+    <None Remove="Dado.png" />
+    <None Remove="elegir %281%29.png" />
+    <None Remove="FondoBosque.png" />
+    <None Remove="FondoRegistro.png" />
+    <None Remove="ImagenArquero.png" />
+    <None Remove="Imagenes\FondoCabaña.png" />
+    <None Remove="Imagenes\FondoCredits.png" />
+    <None Remove="Imagenes\FondoGameOver.png" />
+    <None Remove="Imagenes\FondoTesoro.png" />
+    <None Remove="ImagenGuerrero.png" />
+    <None Remove="ImagenMago.png" />
+    <None Remove="ImagenNPC.png" />
+    <None Remove="nombre.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Imagenes\btnAdivinar.png" />
+    <Resource Include="Imagenes\btnCerrar.png" />
+    <Resource Include="Imagenes\btnReinicio.png" />
+    <Resource Include="Imagenes\btnContinuar.png" />
+    <Resource Include="Imagenes\btnInicioAventura.png" />
+    <Resource Include="Imagenes\btnLanzarDados.png" />
+    <Resource Include="Imagenes\Dado.png" />
+    <Resource Include="Imagenes\elegir %281%29.png" />
+    <Resource Include="Imagenes\FondoBosque.png" />
+    <Resource Include="Imagenes\FondoCabaña.png" />
+    <Resource Include="Imagenes\FondoCredits.png" />
+    <Resource Include="Imagenes\FondoGameOver.png" />
+    <Resource Include="Imagenes\FondoRegistro.png" />
+    <Resource Include="Imagenes\FondoTesoro.png" />
+    <Resource Include="Imagenes\ImagenArquero.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imagenes\ImagenGuerrero.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imagenes\ImagenMago.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imagenes\ImagenNPC.png" />
+    <Resource Include="Imagenes\nombre.png" />
+  </ItemGroup>
+
+</Project>

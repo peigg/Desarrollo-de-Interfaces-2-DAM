@@ -1,0 +1,14 @@
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\bin\Debug\net6.0\RetoArrays.exe
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\bin\Debug\net6.0\RetoArrays.deps.json
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\bin\Debug\net6.0\RetoArrays.runtimeconfig.json
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\bin\Debug\net6.0\RetoArrays.dll
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\bin\Debug\net6.0\RetoArrays.pdb
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\RetoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\RetoArrays.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\RetoArrays.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\RetoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\RetoArrays.dll
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\refint\RetoArrays.dll
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\RetoArrays.pdb
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\RetoArrays.genruntimeconfig.cache
+C:\Users\Pablo\source\repos\RetoArrays\RetoArrays\obj\Debug\net6.0\ref\RetoArrays.dll
